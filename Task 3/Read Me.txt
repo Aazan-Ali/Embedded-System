@@ -1,1 +1,22 @@
+First of all, open the terminal and check if Python is installed.
 
+You can do this by typing the following command and pressing Enter:
+Copy code
+python --version
+If Python is not installed, download and install it from the official Python website. Ensure that you add Python to the system PATH during installation.
+Install Jupyter Notebook.
+
+Open the terminal and type the following command to install Jupyter Notebook using pip:
+Copy code
+pip install notebook
+Open Jupyter Notebook.
+
+After installation, start Jupyter Notebook by typing the following command in the terminal:
+Copy code
+jupyter notebook
+This will open the Jupyter Notebook interface in your default web browser.
+Create a new Jupyter Notebook.
+
+In the Jupyter Notebook interface, click on "New" and select "Python 3" to create a new notebook.
+
+Now you can you my jupyter notebook or you can create your own
